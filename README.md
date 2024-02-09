@@ -3,10 +3,13 @@
 
 
 A simple Calculator for general purposes.
-
-## Why use it?
-
 Its useful for simple calculations.
+## 📸 Screenshots
+![Screenshot (206)](https://github.com/bhumikachinta/calculator-app/assets/126902252/cec06b1c-673f-453e-88c8-14c736f89be5)
+
+
+![Screenshot (205)](https://github.com/bhumikachinta/calculator-app/assets/126902252/2f1db5cc-b03b-49d2-8b93-103afe53befb)
+
 
 ## Features
 
